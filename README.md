@@ -12,4 +12,11 @@ Open Frameworks Version: **0.9.3**
 
 ## Resources
 - NAO SDK - <https://community.aldebaran.com/en/resources/software/language/en-gb>
+- NAO Documentation - <http://doc.aldebaran.com/2-1/home_nao.html>
 - libalmath - <https://github.com/aldebaran/libalmath>
+- NAOqiLiveCam - <https://github.com/tkawata1025/NAOqiLiveCam>
+- naoqi_dashboard - <https://github.com/ros-naoqi/naoqi_dashboard>
+- NAOqi core framework - <http://doc.aldebaran.com/libqi/>
+- aldebaran/libqi - <https://github.com/aldebaran/libqi>
+- C++ bridge based on libqi - <https://github.com/ros-naoqi/naoqi_driver>
+- C++ Bridge between V-REP and NAOqi - <https://github.com/BenjaminNavarro/NAOqi-VREP-Bridge>
