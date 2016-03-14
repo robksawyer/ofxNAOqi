@@ -1,4 +1,4 @@
-# ofxNAOqi
+# ofxNAOqi (Work in Progress)
 > An Open Frameworks addon that allows you to control a simulated NAO robot.
 
 Open Frameworks Version: **0.9.3**
@@ -11,4 +11,4 @@ Open Frameworks Version: **0.9.3**
 - It can also run on your computer in order to test your code on a [simulated robot](http://doc.aldebaran.com/1-14/dev/tools/robot-simulation.html#choregraphe-reference-simulated-robot).
 
 ## Resources
-- NAO SDK - [https://community.aldebaran.com/en/resources/software/language/en-gb]
+- NAO SDK - <https://community.aldebaran.com/en/resources/software/language/en-gb>
