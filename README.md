@@ -12,3 +12,4 @@ Open Frameworks Version: **0.9.3**
 
 ## Resources
 - NAO SDK - <https://community.aldebaran.com/en/resources/software/language/en-gb>
+- libalmath - <https://github.com/aldebaran/libalmath>
